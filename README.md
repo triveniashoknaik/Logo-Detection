@@ -1,7 +1,7 @@
 # Logo-Detection
 
 1. Developed a software that would identify the brand logo in the probe image and bound it by a rectangular 
-box around the recognized logo.
+box around the recognized logo .
 2. Converted the template logo and image containing the same logo into edge images using the sobel operator.
 3.Since the image may contain scaled logo template, vary the scale of the logo and match each scaled template 
 to the image to get maximum correlation.
