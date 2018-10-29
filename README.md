@@ -1,4 +1,4 @@
-# Logo-Detection
+# Logo-Detection (Computer Vision and Deep Learning)
 
 1. Developed a software that would identify the brand logo in the probe image and bound it by a rectangular 
 box around the recognized logo .
